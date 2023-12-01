@@ -1,0 +1,3 @@
+#Игнорировать файл Additional.md
+git rm --cached <Additional.md>
+Additional.md
